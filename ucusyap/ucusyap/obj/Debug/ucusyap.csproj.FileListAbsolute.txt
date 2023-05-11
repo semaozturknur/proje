@@ -1,0 +1,8 @@
+C:\Users\semao\source\repos\ucusyap\ucusyap\obj\Debug\ucusyap.csproj.AssemblyReference.cache
+C:\Users\semao\source\repos\ucusyap\ucusyap\obj\Debug\ucusyap.csproj.SuggestedBindingRedirects.cache
+C:\Users\semao\source\repos\ucusyap\ucusyap\obj\Debug\ucusyap.csproj.CoreCompileInputs.cache
+C:\Users\semao\source\repos\ucusyap\ucusyap\bin\Debug\ucusyap.exe.config
+C:\Users\semao\source\repos\ucusyap\ucusyap\bin\Debug\ucusyap.exe
+C:\Users\semao\source\repos\ucusyap\ucusyap\bin\Debug\ucusyap.pdb
+C:\Users\semao\source\repos\ucusyap\ucusyap\obj\Debug\ucusyap.exe
+C:\Users\semao\source\repos\ucusyap\ucusyap\obj\Debug\ucusyap.pdb
